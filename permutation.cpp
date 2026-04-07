@@ -29,4 +29,4 @@ int main()
             cout << "\n";
         }
     } while (next_permutation(v.begin(), v.end()));
-}
+}  
