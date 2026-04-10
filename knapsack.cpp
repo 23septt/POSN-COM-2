@@ -36,4 +36,4 @@ int main(){
     for(auto i : ans){
         cout << i+1 << " " ;
     }
-}
+} 
